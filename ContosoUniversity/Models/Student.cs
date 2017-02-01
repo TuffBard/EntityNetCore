@@ -8,6 +8,7 @@ namespace ContosoUniversity.Models
     {
         public int ID { get; set; }
         [StringLength(50, ErrorMessage = "Last name cannot be longer than 50 chars.")]
+        [RegularExpression(@"^[A-Z]+[a-zA-Z''-'\s]*$", ErrorMessage ="The first character must be uppercase. Only letter are allowed.")]
         public string LastName { get; set; }
         [StringLength(50, ErrorMessage = "First name cannot be longer than 50 chars.")]
         public string FirstMidName { get; set; }
