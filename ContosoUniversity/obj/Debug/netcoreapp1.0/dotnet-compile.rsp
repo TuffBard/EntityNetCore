@@ -230,6 +230,7 @@
 --reference:C:\Users\NGI\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\NGI\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
 --resource:"C:\Git\EntityNetCore\ContosoUniversity\obj\Debug\netcoreapp1.0\ContosoUniversitydotnet-compile.deps.json",ContosoUniversity.deps.json
+C:\Git\EntityNetCore\ContosoUniversity\PaginatedList.cs
 C:\Git\EntityNetCore\ContosoUniversity\Program.cs
 C:\Git\EntityNetCore\ContosoUniversity\Startup.cs
 C:\Git\EntityNetCore\ContosoUniversity\Controllers\AccountController.cs
