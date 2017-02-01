@@ -235,6 +235,7 @@ C:\Git\EntityNetCore\ContosoUniversity\Startup.cs
 C:\Git\EntityNetCore\ContosoUniversity\Controllers\AccountController.cs
 C:\Git\EntityNetCore\ContosoUniversity\Controllers\HomeController.cs
 C:\Git\EntityNetCore\ContosoUniversity\Controllers\ManageController.cs
+C:\Git\EntityNetCore\ContosoUniversity\Controllers\StudentsController.cs
 C:\Git\EntityNetCore\ContosoUniversity\Data\ApplicationDbContext.cs
 C:\Git\EntityNetCore\ContosoUniversity\Data\DbInitilizer.cs
 C:\Git\EntityNetCore\ContosoUniversity\Data\SchoolContext.cs
