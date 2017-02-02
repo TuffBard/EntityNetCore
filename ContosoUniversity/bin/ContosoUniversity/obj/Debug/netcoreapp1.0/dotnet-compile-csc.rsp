@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"C:\Git\EntityNetCore\ContosoUniversity\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"C:\Git\EntityNetCore\ContosoUniversity\bin\Debug\netcoreapp1.0\ContosoUniversity.dll"
+"C:\Git\EntityNetCore\ContosoUniversity\bin\ContosoUniversity\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Git\EntityNetCore\ContosoUniversity\bin\ContosoUniversity\bin\Debug\netcoreapp1.0\ContosoUniversity.dll"
 -r:"C:\Users\NGI\.nuget\packages\Microsoft.ApplicationInsights\2.1.0\lib\dotnet5.4\Microsoft.ApplicationInsights.dll"
 -r:"C:\Users\NGI\.nuget\packages\Microsoft.ApplicationInsights.AspNetCore\1.0.0\lib\netstandard1.6\Microsoft.ApplicationInsights.AspNetCore.dll"
 -r:"C:\Users\NGI\.nuget\packages\Microsoft.AspNetCore.Antiforgery\1.0.1\lib\netstandard1.3\Microsoft.AspNetCore.Antiforgery.dll"
@@ -225,7 +225,7 @@
 -r:"C:\Users\NGI\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\NGI\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\NGI\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
--resource:"C:\Git\EntityNetCore\ContosoUniversity\obj\Debug\netcoreapp1.0\ContosoUniversitydotnet-compile.deps.json",ContosoUniversity.deps.json
+-resource:"C:\Git\EntityNetCore\ContosoUniversity\bin\ContosoUniversity\obj\Debug\netcoreapp1.0\ContosoUniversitydotnet-compile.deps.json",ContosoUniversity.deps.json
 "C:\Git\EntityNetCore\ContosoUniversity\PaginatedList.cs"
 "C:\Git\EntityNetCore\ContosoUniversity\Program.cs"
 "C:\Git\EntityNetCore\ContosoUniversity\Startup.cs"

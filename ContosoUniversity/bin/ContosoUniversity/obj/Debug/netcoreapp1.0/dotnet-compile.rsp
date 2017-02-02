@@ -1,5 +1,5 @@
---temp-output:C:\Git\EntityNetCore\ContosoUniversity\obj\Debug\netcoreapp1.0\
---out:C:\Git\EntityNetCore\ContosoUniversity\bin\Debug\netcoreapp1.0\ContosoUniversity.dll
+--temp-output:C:\Git\EntityNetCore\ContosoUniversity\bin\ContosoUniversity\obj\Debug\netcoreapp1.0\
+--out:C:\Git\EntityNetCore\ContosoUniversity\bin\ContosoUniversity\bin\Debug\netcoreapp1.0\ContosoUniversity.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -229,7 +229,7 @@
 --reference:C:\Users\NGI\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\NGI\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\NGI\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\Git\EntityNetCore\ContosoUniversity\obj\Debug\netcoreapp1.0\ContosoUniversitydotnet-compile.deps.json",ContosoUniversity.deps.json
+--resource:"C:\Git\EntityNetCore\ContosoUniversity\bin\ContosoUniversity\obj\Debug\netcoreapp1.0\ContosoUniversitydotnet-compile.deps.json",ContosoUniversity.deps.json
 C:\Git\EntityNetCore\ContosoUniversity\PaginatedList.cs
 C:\Git\EntityNetCore\ContosoUniversity\Program.cs
 C:\Git\EntityNetCore\ContosoUniversity\Startup.cs

@@ -17,7 +17,7 @@ namespace ContosoUniversity.Models
         public int Budget { get; set; }
 
         [DataType(DataType.Currency)]
-        [Column(TypeName ="Start Date")]
+        //[Column(TypeName ="Start Date")]
         public DateTime StartDate { get; set; }
 
         public int? InstructorID { get; set; }

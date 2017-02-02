@@ -39,6 +39,7 @@ namespace ContosoUniversity
         public void ConfigureServices(IServiceCollection services)
         {
             // Add framework services.
+            services.AddMvc();
             services.AddApplicationInsightsTelemetry(Configuration);
 
             services.AddDbContext<SchoolContext>(options =>
@@ -51,7 +52,7 @@ namespace ContosoUniversity
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
-            services.AddMvc();
+            
 
             // Add application services.
             services.AddTransient<IEmailSender, AuthMessageSender>();
