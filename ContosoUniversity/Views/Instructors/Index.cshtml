@@ -62,7 +62,7 @@
 }
     </tbody>
 </table>
-
+@* Si un prof selectionné *@
 @if(Model.Courses != null)
 {
     <h3>Courses Taught by Selected Instructor</h3>
@@ -93,6 +93,30 @@
                     </td>
                     <td>
                         @item.Department.Name
+                    </td>
+                </tr>
+            }
+        </table>
+}
+@* Si un cours selectionné *@
+@if(Model.Enrollments != null)
+{
+    <h3>
+        Students Enrolled in Selected Course
+    </h3>
+        <table class="table">
+            <tr>
+                <th>Name</th>
+                <th>Grade</th>
+            </tr>
+            @foreach(var item in Model.Enrollments)
+            {
+                <tr>
+                    <td>
+                        @item.Student.FullName
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Grade)
                     </td>
                 </tr>
             }
