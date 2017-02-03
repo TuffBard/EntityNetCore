@@ -246,6 +246,8 @@ C:\Git\EntityNetCore\ContosoUniversity\Migrations\20170202160356_firstMig.cs
 C:\Git\EntityNetCore\ContosoUniversity\Migrations\20170202160356_firstMig.Designer.cs
 C:\Git\EntityNetCore\ContosoUniversity\Migrations\20170203160723_DepartmentRowVersion.cs
 C:\Git\EntityNetCore\ContosoUniversity\Migrations\20170203160723_DepartmentRowVersion.Designer.cs
+C:\Git\EntityNetCore\ContosoUniversity\Migrations\20170203162327_RowVersion.cs
+C:\Git\EntityNetCore\ContosoUniversity\Migrations\20170203162327_RowVersion.Designer.cs
 C:\Git\EntityNetCore\ContosoUniversity\Migrations\SchoolContextModelSnapshot.cs
 C:\Git\EntityNetCore\ContosoUniversity\Models\ApplicationUser.cs
 C:\Git\EntityNetCore\ContosoUniversity\Models\Course.cs
