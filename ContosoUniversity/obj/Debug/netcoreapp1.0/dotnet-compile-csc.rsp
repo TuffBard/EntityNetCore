@@ -265,6 +265,7 @@
 "C:\Git\EntityNetCore\ContosoUniversity\Models\ManageViewModels\RemoveLoginViewModel.cs"
 "C:\Git\EntityNetCore\ContosoUniversity\Models\ManageViewModels\SetPasswordViewModel.cs"
 "C:\Git\EntityNetCore\ContosoUniversity\Models\ManageViewModels\VerifyPhoneNumberViewModel.cs"
+"C:\Git\EntityNetCore\ContosoUniversity\Models\SchoolViewModels\AssignedCourseData.cs"
 "C:\Git\EntityNetCore\ContosoUniversity\Models\SchoolViewModels\EnrollmentDateGroup.cs"
 "C:\Git\EntityNetCore\ContosoUniversity\Models\SchoolViewModels\InstructorIndexData.cs"
 "C:\Git\EntityNetCore\ContosoUniversity\Services\IEmailSender.cs"
